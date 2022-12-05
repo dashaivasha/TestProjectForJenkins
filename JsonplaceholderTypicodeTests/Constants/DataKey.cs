@@ -9,6 +9,7 @@ namespace JsonplaceholderTypicodeTests.Constants
     {
         public enum DataKey
         {
+            //
             [Description("Url")]
             Url,
             [Description("NotExistingPostId")]
