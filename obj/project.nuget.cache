@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "aze438UvBRHP7du5ks2LBmTDd61TkQIFC1EggqTOk2WEEHYuXNckZebPK7mrhLqopX822L8TCuwoQa9MSWDZcQ==",
+  "dgSpecHash": "IdaudiB6LwUWGe/lThS/qoN6Hcu6i/uhrs47XXi4IFS+1/hxjFl8hFdCYESU8m5G0EGSOH3Cv09EKL+Q+36xUg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\dasha.ivasha\\source\\repos\\TestProject\\JsonplaceholderTypicodeTests\\JsonplaceholderTypicodeTests.csproj",
+  "projectFilePath": "C:\\Users\\dasha.ivasha\\source\\repos\\TestProjectForJenkins\\JsonplaceholderTypicodeTests\\JsonplaceholderTypicodeTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\dasha.ivasha\\.nuget\\packages\\compareobjects\\1.0.2\\compareobjects.1.0.2.nupkg.sha512",
     "C:\\Users\\dasha.ivasha\\.nuget\\packages\\coverlet.collector\\3.1.0\\coverlet.collector.3.1.0.nupkg.sha512",

@@ -3970,11 +3970,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\dasha.ivasha\\source\\repos\\TestProject\\JsonplaceholderTypicodeTests\\JsonplaceholderTypicodeTests.csproj",
+      "projectUniqueName": "C:\\Users\\dasha.ivasha\\source\\repos\\TestProjectForJenkins\\JsonplaceholderTypicodeTests\\JsonplaceholderTypicodeTests.csproj",
       "projectName": "JsonplaceholderTypicodeTests",
-      "projectPath": "C:\\Users\\dasha.ivasha\\source\\repos\\TestProject\\JsonplaceholderTypicodeTests\\JsonplaceholderTypicodeTests.csproj",
+      "projectPath": "C:\\Users\\dasha.ivasha\\source\\repos\\TestProjectForJenkins\\JsonplaceholderTypicodeTests\\JsonplaceholderTypicodeTests.csproj",
       "packagesPath": "C:\\Users\\dasha.ivasha\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\dasha.ivasha\\source\\repos\\TestProject\\JsonplaceholderTypicodeTests\\obj\\",
+      "outputPath": "C:\\Users\\dasha.ivasha\\source\\repos\\TestProjectForJenkins\\JsonplaceholderTypicodeTests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\dasha.ivasha\\AppData\\Roaming\\NuGet\\NuGet.Config",
