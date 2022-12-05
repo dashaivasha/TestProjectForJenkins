@@ -1,7 +1,0 @@
-{
-  "Url": "https://jsonplaceholder.typicode.com/",
-  "NotExistingPostId": 150,
-  "userIdForPostPost": 1,
-  "RandomStringLength": 20,
-  "ContentType": "application/json",
-}
