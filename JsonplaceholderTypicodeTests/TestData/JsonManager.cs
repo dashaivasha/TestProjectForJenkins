@@ -7,6 +7,7 @@ using System.IO;
 
 namespace JsonplaceholderTypicodeTests.TestData
 {
+//
     public class JsonManager
     {
         public static string GetTestData(string key)
